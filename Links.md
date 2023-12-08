@@ -11,3 +11,4 @@
 - Check Spectral radiance: https://en.wikipedia.org/wiki/Spectral_radiance
 - Online color conversions: https://www.easyrgb.com/en/convert.php#inputFORM
 - Online Color Science Notes and Equations http://www.brucelindbloom.com/index.html?Eqn_XYZ_to_Lab.html
+- CIEXYZ Normalization: https://www.mathworks.com/help/images/ref/xyz2lab.html#bufcum1-1-xyz

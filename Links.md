@@ -22,3 +22,7 @@
   
 ## Scaling XYZ To Unity
 - https://fujiwaratko.sakura.ne.jp/infosci/colorspace/colorspace3_e.html
+
+## IQT
+- Trioptics: https://www.youtube.com/watch?v=FhSyBeg-zMI
+- https://www.youtube.com/watch?v=FJwhHFM0oDo

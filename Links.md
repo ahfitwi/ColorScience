@@ -26,3 +26,5 @@
 ## IQT
 - Trioptics: https://www.youtube.com/watch?v=FhSyBeg-zMI
 - https://www.youtube.com/watch?v=FJwhHFM0oDo
+## Stray Light
+- https://www.synopsys.com/glossary/what-is-stray-light.html
